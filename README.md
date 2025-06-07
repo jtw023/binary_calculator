@@ -8,14 +8,10 @@ Git clone repo via https or ssh:
 <details>
     <summary>HTTPS:</summary>
 
-    ~~~
     git clone https://github.com/jtw023/binary_calculator.git ~/$XDG_CONFIG_HOME/
-    ~~~
 </details>
 <details>
     <summary>SSH:</summary>
 
-    ~~~
     git clone git@github.com:jtw023/binary_calculator.git ~/$XDG_CONFIG_HOME/
-    ~~~
 </details>
